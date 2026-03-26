@@ -21,7 +21,7 @@ pip install autonumba
 or from source:
 
 ```bash
-git clone https://github.com/programmersd/autonumba.git
+git clone https://github.com/programmersd21/autonumba.git
 cd autonumba
 python -m pip install --user .
 ```
@@ -97,8 +97,8 @@ Flags are **enabled by default**. Pass flags to selectively override defaults.
 
 ## GitHub Stats 📊
 
-![GitHub Repo Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=programmersd\&repo=autonumba\&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=programmersd\&show_icons=true\&theme=radical)
+![GitHub Repo Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=programmersd21\&repo=autonumba\&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=programmersd21\&show_icons=true\&theme=radical)
 
 ## Badges 🎉
 
